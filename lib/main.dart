@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_app_test/demo/register_view.dart';
+import 'package:flutter_app_test/page/register_view.dart';
 
 void main() {
   runApp(const Register());
